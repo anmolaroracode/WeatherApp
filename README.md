@@ -7,7 +7,7 @@ A responsive weather application built with React and Tailwind CSS that shows cu
 * Search weather by city
 * Current weather details
 * Hourly forecast
-* 5-day forecast
+* 7-day forecast
 * Responsive UI
 * Toast notifications for errors
 * Real-time weather API integration
